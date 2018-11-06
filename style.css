@@ -1,0 +1,26 @@
+footer
+{
+    padding: 0.5%;
+}
+
+#center-window
+{
+    height: 85vh;
+}
+.sidenav
+{
+    background-color: #efefee;
+    height: 100%;
+}
+
+#map
+{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.geocoder-control-selected{
+    background: #7FDFFF;
+    border-color: #7FDFFF;
+  }
